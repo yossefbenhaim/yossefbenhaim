@@ -22,3 +22,8 @@ With 3 years of experience in designing, developing, and maintaining web applica
 
 <img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="Spoofy" width="400" height="200"/>
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/yossefbenhaim"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yossefbenhaim&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/yossefbenhaim"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=yossefbenhaim&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
