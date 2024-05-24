@@ -3,12 +3,15 @@ Hi, I'm Yossef Ben Haim – Full Stack Web Developer
 
 With 3 years of experience in designing, developing, and maintaining web applications, I thrive on solving problems and exploring new technologies. I'm a dedicated team player who loves innovation and continuous learning. Let's build something amazing together!
 
+
 ## Top Skills
+* HTML, CSS ,TS __ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/>_<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>_<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/>
 * React __ <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="20" height="20"/>
-* HTML, CSS ,TS __ 💻
-* Docker __ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
-* Node.js __ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25"/>
+* Node.js __ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
+* Docker __ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="20" height="20"/>
+* Git __ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/>
+
 
 ## Exemple of Work
 
-<img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="css3" width="450" height="250"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="css3" width="450" height="200"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
