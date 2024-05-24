@@ -1,9 +1,3 @@
- <style>
-        p {
-            font-size: 2em; /* This makes the text bigger */
-            font-weight: bold; /* This makes the text bold */
-        }
-    </style>
 ## Hi there 👋
 I'm Yossef Ben Haim – Full Stack Web Developer
 
@@ -21,7 +15,7 @@ With 3 years of experience in designing, developing, and maintaining web applica
 ## 💡 Exemple of Projects 
 
 <img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/Sticky-Notes.gif" alt="Sticky-Notes" width="400" height="200"/>
-<p> Sticky-Notes</p>
+  <p style="font-size: 2em; font-weight: bold;">Sticky-Notes</p>
 <img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="Spoofy" width="400" height="200"/>
 <p> Spoofy - Music Application</p>
 
