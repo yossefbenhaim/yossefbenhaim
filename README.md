@@ -14,4 +14,4 @@ With 3 years of experience in designing, developing, and maintaining web applica
 
 ## Exemple of Work
 
-<img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="css3" width="450" height="200"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="css3" width="400" height="200"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
