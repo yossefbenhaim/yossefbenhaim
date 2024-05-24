@@ -7,7 +7,7 @@ With 3 years of experience in designing, developing, and maintaining web applica
 ## Exemple of Work
 
 
-<img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="css3" width="400" height="250"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+<img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/_Spoofy%20-%20Google%20Chrome_%202024-05-24%2015-02-35.gif" alt="css3" width="450" height="250"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
 
 <h1 align="center">Hi 👋, I'm yossef ben haim</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
