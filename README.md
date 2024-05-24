@@ -1,3 +1,9 @@
+ <style>
+        p {
+            font-size: 2em; /* This makes the text bigger */
+            font-weight: bold; /* This makes the text bold */
+        }
+    </style>
 ## Hi there 👋
 I'm Yossef Ben Haim – Full Stack Web Developer
 
