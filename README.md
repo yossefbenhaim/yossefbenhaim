@@ -3,7 +3,7 @@ Hi, I'm Yossef Ben Haim – Full Stack Web Developer
 
 With 3 years of experience in designing, developing, and maintaining web applications, I thrive on solving problems and exploring new technologies. I'm a dedicated team player who loves innovation and continuous learning. Let's build something amazing together!
 
-## Skills and Experience
+## Top Skills
 * React  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25"/>
 * HTML, CSS ,TS  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="25" height="25"/> ,<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/> 
 * Docker  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="25" height="25"/>
