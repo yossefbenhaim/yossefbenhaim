@@ -21,7 +21,8 @@ With 3 years of experience in designing, developing, and maintaining web applica
 ## CV - WBE Site 
 
 <img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/myWebSite.gif" alt="Spoofy" width="400" height="200"/>
-<a hrf="https://my-portfolio-website-p84i.vercel.app/">https://my-portfolio-website-p84i.vercel.app/</a>
+<a href="https://my-portfolio-website-p84i.vercel.app/">https://my-portfolio-website-p84i.vercel.app/</a>
+
 ## Sticky-Notes
 
 <img src="https://github.com/yossefbenhaim/yossefbenhaim/blob/main/Sticky-Notes.gif" alt="Sticky-Notes" width="400" height="200"/>
